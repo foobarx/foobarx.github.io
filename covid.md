@@ -3,6 +3,6 @@
 Description
 
 
-[Circle Bar Graph Template.pdf](https://foobarx.github.io/foobarx.github.io/Circle Bar Graph Template.pdf).
+[CircleBarGraphTemplate](https://foobarx.github.io/foobarx.github.io/CircleBarGraphTemplate.pdf).
 
 Contact details
