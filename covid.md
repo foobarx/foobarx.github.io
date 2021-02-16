@@ -3,10 +3,8 @@
 Description
 
 
-[Campusplan_A4_englisch.pdf](https://foobarx.github.io/foobarx.github.io/Campusplan_A4_englisch.pdf).
+[genopheno_bild_1_fix.png](https://foobarx.github.io/foobarx.github.io/genopheno_bild_1_fix.png).
 
-[Campusplan_A4_englisch.pdf](https://foobarx.github.io/foobarx.github.io/Campusplan_A4_englisch.pdf).
-
-<iframe src="https://foobarx.github.io/foobarx.github.io/Campusplan_A4_englisch.pdf" style="width: 500px; height: 130px; border: 0px"></iframe>
+[genopheno_bild_1.png](https://foobarx.github.io/foobarx.github.io/genopheno_bild_1.png).
 
 Contact details
