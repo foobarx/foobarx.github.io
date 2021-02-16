@@ -2,7 +2,7 @@
 
 Description
 
-<a href="Circle Bar Graph Template.pdf" class="image fit"><img src="Circle Bar Graph Template.pdf" alt=""></a>
 
+[Circle Bar Graph Template.pdf](https://foobarx.github.io/foobarx.github.io/Circle Bar Graph Template.pdf).
 
 Contact details
